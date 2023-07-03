@@ -8,4 +8,5 @@
 // Git branch
 // Git checkout -b <name branch>
 // Git checkout <name branch>
-// Git push url 
+// Git remote add <name url> url
+// Git push <name url> <name branch>
